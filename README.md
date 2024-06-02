@@ -3,7 +3,8 @@
 
 This repository contains the work done during my internship, focusing on data analysis, machine learning, and sentiment analysis. Each project is designed to develop and showcase skills in these areas using different datasets.
 
-![Project Demo](images/demo.png)
+![Project Demo](![image](https://github.com/ARAVINDAN20/Prodigy-InfoTech-Internship-work/assets/116174602/69fe9321-bf89-4d35-9c02-b669871209ce)
+)
 
 ## Table of Contents
 
