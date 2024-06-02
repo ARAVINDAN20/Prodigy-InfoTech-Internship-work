@@ -64,18 +64,18 @@ This project analyzes sentiment patterns in social media data to understand publ
 5. **Run the project script or notebook**:
    - For Task-01:
      ```sh
-     python visualize_data_distribution.py
+     jupyter notebook internship_task_1.ipynb
      ```
    - For Task-02:
      ```sh
-     jupyter notebook titanic_eda.ipynb
+     jupyter notebook internship_task_2.ipynb
      ```
    - For Task-03:
      ```sh
-     python decision_tree_classifier.py
+     jupyter notebook internship_task_3.ipynb
      ```
    - For Task-04:
      ```sh
-     python sentiment_analysis.py
+     jupyter notebook internship_task_4.ipynb
      ```
 
